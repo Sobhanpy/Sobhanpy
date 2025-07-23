@@ -49,6 +49,8 @@ Other Skills:
   - Telegram Bot Development (python-telegram-bot, aiogram)
   - SQL & ORM (PostgreSQL, SQLite, MySQL)
   - Linux / Ubuntu power user
+```
+---
 
 ## 📫 Contact Me
 
